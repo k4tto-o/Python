@@ -114,4 +114,4 @@ async def Op5(ctx):
 
     await ctx.send(f'Lo mejor es reciclar, pero si ninguna de mis respuestas te sirve, investiga..¡Para un mundo mejor!')
 
-bot.run("MTIwOTYwMDI4MzQ5MTk2NzA1Nw.GiqMdp.rwLzeDedXQMot-M02TrFINu5_Sbcoof_YIGJes")
+bot.run("")
